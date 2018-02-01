@@ -1,7 +1,8 @@
 /*This is a Javascrit FizzBuzz code */
 
 var number;
-console.log('Loading...')
+console.log('Loading...');
+console.log('Loading...');
 
 for (number = 0; number <= 100; number++) {
     if ((number % 3 == 0) && !(number % 5 == 0)) {
